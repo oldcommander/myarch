@@ -1,0 +1,67 @@
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\AutoMapper.Net4.dll
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\MYARCH.IoC.dll.config
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\MYARCH.IoC.dll
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\MYARCH.IoC.pdb
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\Microsoft.Practices.Unity.dll
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\Microsoft.Practices.Unity.RegistrationByConvention.dll
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\Microsoft.Web.Infrastructure.dll
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\MYARCH.CORE.dll
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\MYARCH.DATA.dll
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\MYARCH.SERVICES.dll
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\System.Web.Mvc.dll
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\Unity.Mvc5.dll
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\EntityFramework.dll
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\MYARCH.DTO.dll
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\AutoMapper.dll
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\MYARCH.UTILITIES.dll
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\MYARCH.CORE.pdb
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\MYARCH.DATA.pdb
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\MYARCH.SERVICES.pdb
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\Microsoft.Practices.Unity.xml
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\Microsoft.Practices.Unity.RegistrationByConvention.xml
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\System.Web.Mvc.xml
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\EntityFramework.xml
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\MYARCH.DTO.pdb
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\AutoMapper.pdb
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\AutoMapper.xml
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\bin\Release\MYARCH.UTILITIES.pdb
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\obj\Release\MYARCH.IoC.csprojResolveAssemblyReference.cache
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\obj\Release\MYARCH.IoC.dll
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.IoC\obj\Release\MYARCH.IoC.pdb
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\AutoMapper.Net4.dll
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\MYARCH.IoC.dll.config
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\MYARCH.IoC.dll
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\MYARCH.IoC.pdb
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\MYARCH.CORE.dll
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\MYARCH.DATA.dll
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\MYARCH.SERVICES.dll
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\System.Web.Mvc.dll
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\Unity.Mvc5.dll
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\EntityFramework.dll
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\MYARCH.DTO.dll
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\AutoMapper.dll
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\MYARCH.UTILITIES.dll
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\MYARCH.CORE.pdb
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\MYARCH.DATA.pdb
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\MYARCH.DATA.dll.config
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\MYARCH.SERVICES.pdb
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\Microsoft.Practices.Unity.xml
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\System.Web.Mvc.xml
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\EntityFramework.xml
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\MYARCH.DTO.pdb
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\AutoMapper.pdb
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\AutoMapper.xml
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\bin\Release\MYARCH.UTILITIES.pdb
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\obj\Release\MYARCH.IoC.csprojAssemblyReference.cache
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\obj\Release\MYARCH.IoC.csproj.CoreCompileInputs.cache
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\obj\Release\MYARCH.IoC.csproj.CopyComplete
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\obj\Release\MYARCH.IoC.dll
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.IoC\obj\Release\MYARCH.IoC.pdb

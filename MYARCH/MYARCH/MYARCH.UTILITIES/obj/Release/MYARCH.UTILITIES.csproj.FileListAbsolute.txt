@@ -1,0 +1,11 @@
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.UTILITIES\bin\Release\MYARCH.UTILITIES.dll
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.UTILITIES\bin\Release\MYARCH.UTILITIES.pdb
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.UTILITIES\obj\Release\MYARCH.UTILITIES.csprojResolveAssemblyReference.cache
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.UTILITIES\obj\Release\MYARCH.UTILITIES.dll
+F:\Egitim\Komple Kurs Serisi\1 Komple Web Geliştirici Kursu\Documents\MYARCH\MYARCH.UTILITIES\obj\Release\MYARCH.UTILITIES.pdb
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.UTILITIES\bin\Release\MYARCH.UTILITIES.dll
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.UTILITIES\bin\Release\MYARCH.UTILITIES.pdb
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.UTILITIES\obj\Release\MYARCH.UTILITIES.csproj.CoreCompileInputs.cache
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.UTILITIES\obj\Release\MYARCH.UTILITIES.dll
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.UTILITIES\obj\Release\MYARCH.UTILITIES.pdb
+C:\Users\tr\Desktop\MYARCH\MYARCH\MYARCH.UTILITIES\obj\Release\MYARCH.UTILITIES.csprojAssemblyReference.cache
